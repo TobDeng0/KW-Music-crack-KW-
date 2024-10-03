@@ -4,6 +4,11 @@
 
 KW音乐查询是一个基于网页的音乐信息查询工具，用户可以通过输入音乐ID来查询音乐的详细信息，包括封面、名称、歌手、专辑、品质、时长、大小以及下载链接等。
 
+## 演示
+![image](https://github.com/user-attachments/assets/fab64055-36a7-4e77-a05c-04abe8b935b1)
+![image](https://github.com/user-attachments/assets/339361c7-9c87-4e25-b2ea-fa32a626b3b9)
+
+
 ## 功能
 
 - **音乐信息展示**：展示音乐的封面、名称、歌手、专辑、品质、时长和大小。
@@ -37,6 +42,10 @@ KW音乐查询是一个基于网页的音乐信息查询工具，用户可以通
 ## Introduction
 
 KW Music Query is a web-based music information query tool that allows users to query detailed information about a song by entering a music ID, including cover, name, singer, album, quality, duration, size, and download link.
+
+## demo
+![image](https://github.com/user-attachments/assets/fab64055-36a7-4e77-a05c-04abe8b935b1)
+![image](https://github.com/user-attachments/assets/339361c7-9c87-4e25-b2ea-fa32a626b3b9)
 
 ## Features
 
