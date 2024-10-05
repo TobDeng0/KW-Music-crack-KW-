@@ -8,8 +8,8 @@ KW音乐查询是一个基于网页的音乐信息查询工具，用户可以通
 
 ## 演示
 ![image](https://github.com/user-attachments/assets/942e6c16-58a8-4e00-8557-d8ffdfbd65a3)
+![image](https://github.com/user-attachments/assets/537d6c77-0e25-43df-90d0-5bac6adec258)
 
-![image](https://github.com/user-attachments/assets/57b31340-e698-4343-9bfc-a469c743a63e)
 
 
 ## 功能
@@ -50,8 +50,7 @@ KW Music Query is a web-based music information query tool that allows users to 
 
 ## demo
 ![image](https://github.com/user-attachments/assets/942e6c16-58a8-4e00-8557-d8ffdfbd65a3)
-
-![image](https://github.com/user-attachments/assets/57b31340-e698-4343-9bfc-a469c743a63e)
+![image](https://github.com/user-attachments/assets/537d6c77-0e25-43df-90d0-5bac6adec258)
 
 ## Features
 
